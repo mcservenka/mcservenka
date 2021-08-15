@@ -1,6 +1,8 @@
-Servus, I’m @mcservenka 👋
+Hi, I’m @mcservenka 👋
 
-I’m interested in Data Science and Sports.
+I’m interested in Data Science and Sports,
+primarily football (the real football we play in Europe) 
+and Basketball (the real Basketball they play in the US).
 
 
 <!---
